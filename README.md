@@ -35,20 +35,24 @@ Consider these options:
 
 ## Use Cases
 
+
+
+
+
 ![image](https://github.com/user-attachments/assets/bd29d40a-f1c5-4fd5-9e01-242d9009210f)
 
 
 ## Technology Stack
 
-Digital Governance
-citizen centricity
-economic growth 
-social development
+### Digital Governance
+### citizen centricity
+### economic growth 
+### social development
 
 ## Dependencies
 
-Home Department
-Finance Department
-Revenue department
-Education department
-Health department
+### Home Department
+### Finance Department
+### Revenue department
+### Education department
+### Health department
